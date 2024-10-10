@@ -3,7 +3,7 @@ return {
 		"folke/twilight.nvim",
 		opts = {},
 		keys = {
-			{ "<leader>T", ":Twilight<CR>", desc = "Toggle Twilight" },
+			{ "<leader>Tw", ":Twilight<CR>", desc = "Toggle Twilight" },
 		},
 	},
 }
