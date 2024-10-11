@@ -19,4 +19,4 @@ vim.cmd("syntax on") -- enable syntax highlighting
 vim.opt.clipboard = "unnamedplus" -- use system clipboard
 vim.opt.cursorline = true -- highlight current cursor line
 vim.opt.ttyfast = true -- speed up scrolling in Vim
-
+vim.opt.spell = true -- enable spellcheck
